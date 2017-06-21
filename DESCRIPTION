@@ -2,8 +2,8 @@ Package: plotMCMC
 Version: 2.0-1
 Date: 2017-06-21
 Title: MCMC Diagnostic Plots
-Authors@R: c(person("Arni", "Magnusson", role=c("aut","cre"),
-  email="arnima@hafro.is"), person("Ian", "Stewart", role="aut"))
+Authors@R: c(person("Arni", "Magnusson", role=c("aut","cre"), email="arni.magnusson@ices.dk"),
+             person("Ian", "Stewart", role="aut"))
 Author: Arni Magnusson [aut, cre], Ian Stewart [aut]
 Maintainer: Arni Magnusson <arnima@hafro.is>
 Imports: coda, gplots, lattice
