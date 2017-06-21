@@ -1,0 +1,119 @@
+--------------------------------------------------------------------------------
+plotMCMC 2.0-0 (2014-03-11)
+--------------------------------------------------------------------------------
+o Renamed package from "scapeMCMC" to "plotMCMC".
+
+o Removed functions importMCMC() and importProj().
+
+o Added arguments 'pch', 'cex', 'col', and 'sfrac' to plotQuant(style="bars").
+
+o Added argument 'staplewex' to plotQuant(style="boxes").
+
+o Changed default 'lty.median', 'lwd.median', 'col.outer', and 'boxwex' in
+  plotQuant().
+
+o Improved plotDens() to draw transparent posterior for fixed quantities.
+
+o Added pch="." to plotSplom() examples, resulting in smaller package tarball.
+
+o Simplified and renamed example objects so they are basic data frames: xpar
+  (parameters), xrec (recruitment), xbio (biomass), and xpro (projections).
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.1-3 (2011-09-29)
+--------------------------------------------------------------------------------
+o Improved plotQuant() and plotSplom() handling of 'mcmc' objects.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.1-2 (2011-02-09)
+--------------------------------------------------------------------------------
+o No user-visible changes.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.1-1 (2010-09-05)
+--------------------------------------------------------------------------------
+o Minor improvements in help pages.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.1-0 (2010-09-04)
+--------------------------------------------------------------------------------
+o Added argument 'col.strip' to plotDens() and plotTrace(), with gray as
+  default.
+
+o Changed default 'cex.axis' in plotDens() to 0.8.
+
+o Reduced clutter at startup.
+
+o Added two vignettes: dsc-vignette.pdf and gallery.pdf.
+
+o Updated URLs and email address.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.0-4 (2009-04-20)
+--------------------------------------------------------------------------------
+o No user-visible changes.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.0-3 (2007-09-29)
+--------------------------------------------------------------------------------
+o No user-visible changes.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.0-2 (2005-10-24)
+--------------------------------------------------------------------------------
+o Improved plotSplom() to draw quietly.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.0-1 (2005-10-18)
+--------------------------------------------------------------------------------
+o Renamed argument 'plot.it' to 'plot' in plotDens() and plotTrace().
+
+o Improved help pages.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 1.0-0 (2005-10-12)
+--------------------------------------------------------------------------------
+o Added help pages for all functions.
+
+o Submitted to CRAN.
+
+
+
+
+--------------------------------------------------------------------------------
+scapeMCMC 0.9-0 (2005-09-29)
+--------------------------------------------------------------------------------
+o Added functions importMCMC(), importProj(), plotAuto(), plotCumu(),
+  plotDens(), plotQuant(), plotSplom(), and plotTrace().
+
+o Added example objects xmcmc and xproj.
+
+o Added example files mcmclike.out, params.pst, procatch.out, projspbm.out,
+  recruits.pst, spawbiom.pst, and strategy.out.

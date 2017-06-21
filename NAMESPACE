@@ -1,0 +1,6 @@
+export(plotAuto, plotCumu, plotDens, plotQuant, plotSplom, plotTrace)
+
+importFrom(coda, as.mcmc, autocorr.plot, cumuplot, is.mcmc, is.mcmc.list, mcmc)
+importFrom(gplots, plotCI)
+importFrom(lattice, densityplot, panel.abline, panel.densityplot, panel.loess,
+           panel.xyplot, trellis.par.get, trellis.par.set, xyplot)
