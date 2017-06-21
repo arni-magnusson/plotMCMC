@@ -59,7 +59,3 @@
   The functions \code{Args} and \code{ll} (package \pkg{gdata}) can be
   useful for browsing unwieldy functions and objects.
 }
-% Graphics
-\keyword{hplot}
-% Statistics
-\keyword{ts}

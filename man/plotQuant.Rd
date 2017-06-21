@@ -98,7 +98,3 @@ plotQuant(xbio, style="lines", div=1000, xlab="Year",
 plotQuant(xpro, axes=1:2, div=1000, xlab="Year",
           ylab="Biomass age 4+ (kt)")
 }
-% Graphics
-\keyword{hplot}
-% Statistics
-\keyword{ts}

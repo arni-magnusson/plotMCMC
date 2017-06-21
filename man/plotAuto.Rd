@@ -49,7 +49,3 @@ plotAuto(xpar$R0)
 plotAuto(xpar$R0, thin=10)
 plotAuto(xpar, lag.max=50, ann=FALSE, axes=FALSE)
 }
-% Graphics
-\keyword{hplot}
-% Statistics
-\keyword{ts}

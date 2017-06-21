@@ -57,4 +57,3 @@ plotQuant(xbio, style="bars", div=1000, sfrac=0, xlab="Year",
 plotQuant(xbio, style="lines", div=1000, xlab="Year",
           ylab="Biomass age 4+ (kt)")
 }
-\keyword{datasets}

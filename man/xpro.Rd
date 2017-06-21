@@ -55,4 +55,3 @@ plotQuant(xpro, axes=1:2, div=1000, xlab="Year",
 plotSplom(xpro, axes=TRUE, between=1, div=1000, main="Future biomass",
           cex.labels=1.5, pch=".", cex=3)
 }
-\keyword{datasets}

@@ -71,4 +71,3 @@ plotSplom(xpar, pch=".")
 
 plotDens(xpar, xlab="Parameter value", ylab="Posterior density\n")
 }
-\keyword{datasets}
