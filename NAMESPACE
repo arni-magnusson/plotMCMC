@@ -1,5 +1,9 @@
 export(plotAuto, plotCumu, plotDens, plotQuant, plotSplom, plotTrace)
 
+importFrom(graphics, axis, box, bxp, lines, matplot, pairs, par, plot, title)
+importFrom(stats, median, quantile, var, window)
+importFrom(utils, tail)
+
 importFrom(coda, as.mcmc, autocorr.plot, cumuplot, is.mcmc, is.mcmc.list, mcmc)
 importFrom(gplots, plotCI)
 importFrom(lattice, densityplot, panel.abline, panel.densityplot, panel.loess,
