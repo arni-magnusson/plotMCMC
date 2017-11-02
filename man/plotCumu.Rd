@@ -27,8 +27,8 @@ plotCumu(mcmc, probs=c(0.025,0.975), div=1, log=FALSE, base=10,
   \item{lty.outer}{line type of outer quantiles.}
   \item{lwd.outer}{line width of outer quantiles.}
   \item{col.outer}{color of outer quantiles.}
-  \item{\dots}{passed to \code{cumuplot()}, \code{title()} and
-    \code{axis()}.}
+  \item{\dots}{passed to \code{cumuplot}, \code{title}, and
+    \code{axis}.}
 }
 \value{Null, but a plot is drawn on the current graphics device.}
 \note{
