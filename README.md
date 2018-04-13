@@ -1,5 +1,6 @@
 [![CRAN Status](http://r-pkg.org/badges/version/plotMCMC)](https://cran.r-project.org/package=plotMCMC)
-[![CRAN Downloads](http://cranlogs.r-pkg.org/badges/plotMCMC)](https://cran.r-project.org/package=plotMCMC)
+[![CRAN Monthly](http://cranlogs.r-pkg.org/badges/plotMCMC)](https://cran.r-project.org/package=plotMCMC)
+[![CRAN Total](http://cranlogs.r-pkg.org/badges/grand-total/plotMCMC)](https://cran.r-project.org/package=plotMCMC)
 
 # plotMCMC
 
