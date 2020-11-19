@@ -2,7 +2,7 @@ Package: plotMCMC
 Version: 2.0-1
 Date: 2017-06-21
 Title: MCMC Diagnostic Plots
-Authors@R: c(person("Arni", "Magnusson", role=c("aut","cre"), email="arni.magnusson@ices.dk"),
+Authors@R: c(person("Arni", "Magnusson", role=c("aut","cre"), email="thisisarni@gmail.com"),
              person("Ian", "Stewart", role="aut"))
 Imports: coda, gplots, lattice
 Suggests: gdata
