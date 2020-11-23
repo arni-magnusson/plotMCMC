@@ -4,7 +4,7 @@
 %\VignetteIndexEntry{Gallery}
 \usepackage{parskip}
 \usepackage{hyperref}
-\newcommand{\p}[1]{{\fontseries{b}\selectfont #1}}
+\newcommand\p[1]{{\fontseries{b}\selectfont #1}}
 \begin{document}
 
 \title{The \p{plotMCMC} gallery}
