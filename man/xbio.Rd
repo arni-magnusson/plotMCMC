@@ -27,7 +27,7 @@
   about the data and model. More specifically, \code{xbio <- xmcmc$B}.
 
   The MCMC analysis was run using the \dfn{AD Model Builder} software
-  (\url{http://admb-project.org}).
+  (\url{http://www.admb-project.org/}).
 }
 \references{
   Fournier, D. A., Skaug, H. J., Ancheta, J., Ianelli, J., Magnusson,
