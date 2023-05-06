@@ -25,12 +25,12 @@
   For example, \code{xrec$"1980"} is the estimated number of
   one-year-olds in 1981, the cohort that hatched in 1980.
 
-  This data frame is a subset of the \code{\link[scape]{xmcmc}} list
-  from the \pkg{scape} package, which contains further documentation
-  about the data and model. More specifically, \code{xrec <- xmcmc$R}.
+  This data frame is a subset of the \code{xmcmc} list from the
+  \pkg{scape} package, which contains further documentation about the
+  data and model. Specifically, \code{xrec <- xmcmc$R}.
 
   The MCMC analysis was run using the \dfn{AD Model Builder} software
-  (\url{http://www.admb-project.org/}).
+  (\url{https://www.admb-project.org}).
 }
 \references{
   Fournier, D. A., Skaug, H. J., Ancheta, J., Ianelli, J., Magnusson,

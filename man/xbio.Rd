@@ -22,12 +22,12 @@
   Biomass is the total weight of all individuals in a population, in
   this case ages 4 and older.
 
-  This data frame is a subset of the \code{\link[scape]{xmcmc}} list
-  from the \pkg{scape} package, which contains further documentation
-  about the data and model. More specifically, \code{xbio <- xmcmc$B}.
+  This data frame is a subset of the \code{xmcmc} list from the
+  \pkg{scape} package, which contains further documentation about the
+  data and model. Specifically, \code{xbio <- xmcmc$B}.
 
   The MCMC analysis was run using the \dfn{AD Model Builder} software
-  (\url{http://www.admb-project.org/}).
+  (\url{https://www.admb-project.org}).
 }
 \references{
   Fournier, D. A., Skaug, H. J., Ancheta, J., Ianelli, J., Magnusson,

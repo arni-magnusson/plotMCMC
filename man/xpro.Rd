@@ -22,13 +22,12 @@
   The projections are based on a fixed harvest rate, where 25\% of the
   biomass (ages 4 and older) is caught every year.
 
-  This data frame is a subset of the \code{\link[scape]{xproj}} list
-  from the \pkg{scape} package, which contains further documentation
-  about the data and model. More specifically,
-  \code{xpro <- xproj$"0.25"}.
+  This data frame is a subset of the \code{xproj} list from the
+  \pkg{scape} package, which contains further documentation about the
+  data and model. Specifically, \code{xpro <- xproj$"0.25"}.
 
   The MCMC analysis was run using the \dfn{AD Model Builder} software
-  (\url{http://www.admb-project.org/}).
+  (\url{https://www.admb-project.org}).
 }
 \references{
   Fournier, D. A., Skaug, H. J., Ancheta, J., Ianelli, J., Magnusson,
