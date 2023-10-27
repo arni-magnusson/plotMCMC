@@ -39,15 +39,18 @@
 }
 \author{Arni Magnusson and Ian Stewart.}
 \references{
-  Fournier, D. A., Skaug, H. J., Ancheta, J., Ianelli, J., Magnusson,
-  A., Maunder, M. N., Nielsen, A. and Sibert, J. (2012) AD Model
-  Builder: using automatic differentiation for statistical inference of
-  highly parameterized complex nonlinear models. \emph{Optimization
-    Methods and Software}, \bold{27}, 233--249.
+  Fournier, D.A., Skaug, H.J., Ancheta, J., Ianelli, J., Magnusson, A., Maunder,
+  M.N., Nielsen, A., and Sibert, J. (2012).
+  AD Model Builder: using automatic differentiation for statistical inference of
+  highly parameterized complex nonlinear models.
+  \emph{Optimization Methods and Software}, \bold{27}, 233--249.
+  \doi{10.1080/10556788.2011.597854}
 
-  Magnusson, A., Punt, A. E. and Hilborn, R. (2013) Measuring
-  uncertainty in fisheries stock assessment: the delta method,
-  bootstrap, and MCMC. \emph{Fish and Fisheries}, \bold{14}, 325--342.
+  Magnusson, A., Punt, A.E., and Hilborn, R. (2013).
+  Measuring uncertainty in fisheries stock assessment: the delta method,
+  bootstrap, and MCMC.
+  \emph{Fish and Fisheries}, \bold{14}, 325--342.
+  \doi{10.1111/j.1467-2979.2012.00473.x}
 }
 \seealso{
   The \pkg{coda} package is a suite of diagnostic functions and plots
