@@ -11,3 +11,4 @@ Description: Markov chain Monte Carlo diagnostic plots. The purpose of the
   package is to combine existing tools from the 'coda' and 'lattice' packages,
   and make it easy to adjust graphical details.
 License: GPL-3
+URL: https://github.com/arni-magnusson/plotMCMC
